@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Tackling the first portfolio project"
-date:       2018-03-07 22:23:40 +0000
+title:      "Tackling the First Portfolio Project"
+date:       2018-03-07 17:23:40 -0500
 permalink:  tackling_the_first_portfolio_project
 ---
 
