@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Joy of Rails, or: How I Learned that Google Has Gendered Me "Other""
-date:       2018-04-20 22:56:31 +0000
+date:       2018-04-20 18:56:32 -0400
 permalink:  the_joy_of_rails_or_how_i_learned_that_google_has_gendered_me_other
 ---
 
