@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scope and Hoisting in Javascript"
-date:       2018-05-24 20:33:34 +0000
+date:       2018-05-24 16:33:34 -0400
 permalink:  scope_and_hoisting_in_javascript
 ---
 
@@ -29,7 +29,7 @@ var catSpeak = “Meow!”
 
 function cat(name) {
 var kittenFact = “is just the cutest!”
-console.log(`${name} ${kittenFact} ${meow}`)
+console.log(`${name} ${kittenFact} ${catSpeak}`)
 }
 
 cat(“Mittens”) // “Mittens is just the cutest! Meow!”
